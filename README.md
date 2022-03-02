@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phoenixz-py
-- 👀 I’m interested in js 
-- 🌱 I’m currently learning js
+- 👀 I’m interested in node.js 
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to practice more.
 - 📫 How to reach me just text me here
 <!---
