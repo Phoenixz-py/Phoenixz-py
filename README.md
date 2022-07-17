@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phoenixz-py
+- 👋 Hi, I’m Phoenixz
 - 👀 I’m interested in node.js 
 - 🌱 I’m currently learning node.js
 - ლ(╹◡╹ლ) I’m looking to practice more.
