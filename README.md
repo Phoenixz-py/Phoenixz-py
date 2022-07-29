@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phoenixz
 - 👀 I’m interested in node.js 
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning node.js & DevOps
 - ლ(╹◡╹ლ) I’m looking to practice more.
 - 🤔 How to reach me just text me here or email me
 - Side Skills(Beginner Docker & AWS, HTML + CSS)
