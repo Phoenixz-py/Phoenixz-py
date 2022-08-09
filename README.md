@@ -2,7 +2,7 @@
 - 👀 I’m interested in node.js 
 - 🌱 I’m currently learning node.js & DevOps
 - ლ(╹◡╹ლ) I’m looking to practice more.
-- 🤔 How to reach me just text me here or email me
+- 🤔 How to reach me Discord-Phoenix#6965
 - Beginner Docker https://hub.docker.com/u/docfenix
 -  HTML
 -  CSS
