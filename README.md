@@ -4,7 +4,7 @@
 - ლ(╹◡╹ლ) I’m looking to practice more.
 - 🤔 How to reach me Discord-Phoenix#6965
 - Beginner Docker https://hub.docker.com/u/docfenix
--  HTML
+-  HTML and Its preprocessor Pug
 -  CSS
 -  Python
 <!---
