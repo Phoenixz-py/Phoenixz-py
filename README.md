@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phoenixz
-- 👀 I’m interested in node.js 
-- 🌱 I’m currently learning node.js & DevOps
-- ლ(╹◡╹ლ) I’m looking to practice more.
+- 👀 I’m interested in all tools related Dev, Deployment and Testing.   
+- 🌱 I’m currently learning Web Dev & Cloud DevOps 
+- ლ(╹◡╹ლ) I’m looking to Self Project Dev Ideas.
 - 🤔 How to reach me Discord-Phoenix#6965
 - Beginner Docker https://hub.docker.com/u/docfenix
 - HTML & CSS
