@@ -6,8 +6,9 @@
 - Beginner Docker https://hub.docker.com/u/docfenix
 - HTML & CSS
 - Node.js
-- Express.js (routing, middleware and post methods)
+- Express.js (routing, middleware, post & get methods)
 - Python
+- Ajax
 <!---
 Phoenixz-py/Phoenixz-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
