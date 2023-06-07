@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Phoenixz
-- 👀 I’m interested in all tools related Dev, Deployment and Testing.   
+- 👋 Hi, I’m Phoenix
+- 👀 I’m interested in all tools related to Dev, Deployment, and Testing.   
 - 🌱 I’m currently learning Web Dev & Cloud DevOps 
-- ლ(╹◡╹ლ) I’m looking to Self Project Dev Ideas.
+- ლ(╹◡╹ლ) I’m looking Internship & Job opportunities.
 - 🤔 How to reach me Discord-Phoenix#6965
 - Beginner Docker https://hub.docker.com/u/docfenix
 - HTML & CSS & JS + ReactJS
