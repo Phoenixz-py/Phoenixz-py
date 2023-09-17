@@ -21,7 +21,7 @@ I'm a dedicated software enthusiast with a passion for crafting exceptional digi
 
 🚀 **Skills Summary:**
 - **Languages:** JavaScript, Java
-- **Frameworks:** NodeJS, ExpressJS, ReactJS, ElectronJS, Bootstrap, Tailwind CSS
+- **Frameworks:** NodeJS, ExpressJS, ReactJS, AngularJS, ElectronJS, Bootstrap, Tailwind CSS
 - **Tools:** Docker, GIT, MongoDB, Redux
 - **Platforms:** Linux, Windows
 - **Software:** Microsoft PowerPoint, Microsoft Word, WSL
