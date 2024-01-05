@@ -30,7 +30,8 @@ I'm a dedicated software enthusiast with a passion for crafting exceptional digi
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="![image](https://github.com/Phoenixz-py/Phoenixz-py/assets/73833580/305af831-71b2-4921-9620-5da5ce6b4846)
+" alt="php" width="45" height="45"/>
 </p>
 
 📂 **Recent Projects:**
