@@ -35,3 +35,6 @@ I'm a dedicated software enthusiast with a passion for crafting exceptional digi
 Let's collaborate on exciting ventures and turn innovative ideas into reality. Check out my repositories to witness the magic unfold!
 
 **Ready to embark on a transformative tech journey together? Let's connect and make a difference!** 🚀
+
+
+p.s. Email me or discord me to make any website or fix any error 
