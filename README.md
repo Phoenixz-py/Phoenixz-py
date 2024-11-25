@@ -11,7 +11,8 @@ I'm a dedicated software enthusiast with a passion for crafting exceptional digi
 - 💼 Actively seeking internship and job opportunities to channel my expertise into meaningful projects.
 
 🌐 **Connect with Me:**
-- Let's chat on Discord: Phoenix#6965
+- Let's chat on Discord: Phoenix#6965/ sekiro_phoenix
+- Selling or Making Projects at cheaper rates
 
 🌟 **HackerRank Profile:**
 - Explore my coding skills on [HackerRank](https://www.hackerrank.com/phoenix60612?hr_r=1).
