@@ -31,12 +31,11 @@ I'm a dedicated software enthusiast with a passion for crafting exceptional digi
 📂 **Recent Projects:**
 - [LungWise Cancer Predictor]
 - [Sentiment Analyser For YouTube Clip]
-- [Employee Management Portal]![240825321-fe8225a5-f084-45cb-9a28-a0c2c8634872](https://github.com/user-attachments/assets/c1e78667-81e6-4bbb-a003-f7a66023951f)
-
-
+- [Employee Management Portal]
 Let's collaborate on exciting ventures and turn innovative ideas into reality. Check out my repositories to witness the magic unfold!
 
 **Ready to embark on a transformative tech journey together? Let's connect and make a difference!** 🚀
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/80078925-a958-4f95-8588-d12cc763a740)
 
 
-p.s. Email me or discord me to make any website or fix any error 
+
