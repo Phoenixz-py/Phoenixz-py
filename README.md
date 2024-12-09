@@ -29,9 +29,10 @@ I'm a dedicated software enthusiast with a passion for crafting exceptional digi
   
 
 📂 **Recent Projects:**
-- [LungWise Cancer Predictor(ElectronJS PROJECT]
+- [LungWise Cancer Predictor]
 - [Sentiment Analyser For YouTube Clip]
-- [Studen Management Portal(MEAN PROJECT)]
+- [Studen Management Portal]
+
 Let's collaborate on exciting ventures and turn innovative ideas into reality. Check out my repositories to witness the magic unfold!
 
 **Ready to embark on a transformative tech journey together? Let's connect and make a difference!** 🚀
