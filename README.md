@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hello, I'm Phoenix! 👋
 
-I'm a dedicated software enthusiast with a passion for crafting exceptional digital experiences. My journey in the world of technology revolves around DevOps excellence, Web Development wizardry, and a commitment to continuous learning.
+I'm a dedicated software enthusiast with a passion for crafting exceptional digital experiences. My journey in the world of technology revolves around Web Development wizardry, and a commitment to continuous learning.
 
 💡 **What Sets Me Apart:**
 - 🚀 Proficient in JavaScript and Java, with a strong foundation in web development and beyond.
@@ -22,7 +22,8 @@ I'm a dedicated software enthusiast with a passion for crafting exceptional digi
 
 🚀 **Skills Summary:**
 - **Languages:** JavaScript, Java
-- **Frameworks:** NodeJS, ExpressJS, ReactJS, AngularJS, ElectronJS, Bootstrap, Tailwind CSS
+- **Frameworks:** NodeJS![212257460-738ff738-247f-4445-a718-cdd0ca76e2db](https://github.com/user-attachments/assets/d6d98fcf-b4cd-44cb-8df0-559c1f7009fd)
+, ExpressJS, ReactJS, AngularJS, ElectronJS, Bootstrap, Tailwind CSS
 - **Tools:** Docker, GIT, MongoDB, Redux
 - **Platforms:** Linux, Windows
 - **Software:** Microsoft PowerPoint, Microsoft Word, WSL
