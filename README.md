@@ -31,7 +31,7 @@ I'm a dedicated software enthusiast with a passion for crafting exceptional digi
 📂 **Recent Projects:**
 - [LungWise Cancer Predictor]
 - [Sentiment Analyser For YouTube Clip]
-- [Studen Management Portal]
+- [Student Management Portal]
 
 Let's collaborate on exciting ventures and turn innovative ideas into reality. Check out my repositories to witness the magic unfold!
 
