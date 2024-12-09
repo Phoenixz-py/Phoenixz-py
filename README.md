@@ -22,8 +22,15 @@ I'm a dedicated software enthusiast with a passion for crafting exceptional digi
 
 🚀 **Skills Summary:**
 - **Languages:** JavaScript, Java
-- **Frameworks:** NodeJS![212257460-738ff738-247f-4445-a718-cdd0ca76e2db](https://github.com/user-attachments/assets/d6d98fcf-b4cd-44cb-8df0-559c1f7009fd)
-, ExpressJS, ReactJS, AngularJS, ElectronJS, Bootstrap, Tailwind CSS
+- **Frameworks:** ![238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa](https://github.com/user-attachments/assets/4315cc8d-2875-4f79-bfc5-6ad88bf5aa5f)
+![238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb](https://github.com/user-attachments/assets/cbf7f616-3774-48a6-8394-f55a03123c08)
+![238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9](https://github.com/user-attachments/assets/777715dd-51b7-43fb-bcdc-3e836d28dc9c)
+![212280823-79088828-a258-4a4d-8d6c-96315d5a07af](https://github.com/user-attachments/assets/ac8856a6-08a5-45d8-a842-07bd674aaa6b)
+![212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b](https://github.com/user-attachments/assets/ff06cd2f-cf23-42e6-ae6b-cb17ef606c40)
+![212257460-738ff738-247f-4445-a718-cdd0ca76e2db](https://github.com/user-attachments/assets/f98af3b9-b336-49c5-8178-b5d5c673d2cf)
+![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/523f55f5-6bea-459b-8afa-b236f547a806)
+![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/9679d279-693b-489d-91f7-c7e1ba923a7a)
+
 - **Tools:** Docker, GIT, MongoDB, Redux
 - **Platforms:** Linux, Windows
 - **Software:** Microsoft PowerPoint, Microsoft Word, WSL
